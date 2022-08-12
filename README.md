@@ -1,4 +1,5 @@
 # Telegram bot providing prices from binance api
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/7008236/184308258-11cca399-0a4d-4d6e-a118-143b9778bb93.gif)
 
 ### This is not a production ready project!
 #### This is an experiment for learning and testing purposes. 
